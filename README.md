@@ -20,3 +20,10 @@ Just run index.js and go to localhost:8080.
 ```
 node index.js
 ```
+Steps
+==============
+- Build the board
+- Setup event listeners
+- Wait for opponent to join
+- Broadcast the event
+- Check for winner
